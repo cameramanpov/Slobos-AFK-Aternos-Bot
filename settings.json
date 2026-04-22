@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "BaguetteBotDontworry",
     "password": "",
-    "type": "offline"
+    "type": "microsoft"
   },
   "server": {
     "ip": "BaguetteMafiaSMP.aternos.me",
