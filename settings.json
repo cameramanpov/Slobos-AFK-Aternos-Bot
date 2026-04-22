@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "BaguetteBotDontworry",
     "password": "",
-    "type": "microsoft"
+    "type": "mojang"
   },
   "server": {
     "ip": "BaguetteMafiaSMP.aternos.me",
