@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "BaguetteBotDontworry",
+    "username": "SERVERbot",
     "password": "",
     "type": "offline"
   },
@@ -42,14 +42,14 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": false,
+    "enabled": true,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
       "speed": 3000
     },
     "look-around": {
-      "enabled": false,
+      "enabled": true,
       "interval": 5000
     },
     "random-jump": {
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://ptb.discord.com/api/webhooks/1496545870051676382/NJmqAa0HL8QtlsTBO3kGWz6nrnYDrUaJiRIuJTVxP89ItSo3UY573b2lQO6Sjy6Z8Tik",
     "events": {
       "connect": true,
       "disconnect": true,
